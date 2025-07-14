@@ -1,5 +1,5 @@
 ## CIND-820
-Capstone Assignment
+cind820_credit_risk_assignment
 
 ## Credit Risk Classification Project
 
