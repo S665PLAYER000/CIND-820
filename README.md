@@ -64,11 +64,11 @@ The results confirm that simple classification models, when properly prepared an
 
 ## Repository Contents
 
-- `credit_risk_analysis.ipynb`: Main notebook with code and results  
+- `cind820_credit_risk.ipynb`: Main notebook with code and results  
 - `german.data`: Raw dataset  
 - `README.md`: Project overview  
 - `initial_results_summary.rtf`: Draft text for report  
-- `final_report.pdf`: (To be added)  
+- `final_report.pdf`: (To be added at the end of capstone)  
 - `video_walkthrough.mp4`: (To be added)
 
 
