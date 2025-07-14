@@ -51,16 +51,16 @@ The goal of this project is to build a classification model to predict whether a
 | Decision Tree       | 0.715    | 0.764  | 0.684               |
 | Naive Bayes         | 0.76     | 0.807  | 0.726               |
 
-The results confirm that simple classification models, when properly prepared and evaluated, can provide useful insights into creditworthiness.
+The results confirm that simple classification models, when properly prepared and evaluated, can provide important insights into creditworthiness.
 
 
 ## Future Improvements
 
-- Add precision, F1 score, and ROC curves  
+- I want to add precision, F1 score, and ROC curves  
 - Visualize feature importances and model comparisons  
 - Add support for additional algorithms (e.g. Random Forest or XGBoost)  
 - Improve class balance handling using SMOTE or reweighting  
-
+  
 
 ## Repository Contents
 
