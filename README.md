@@ -7,7 +7,6 @@ This project was completed as part of the capstone course (CIND 820) in the Cert
 
 The goal of this project is to build a classification model to predict whether a credit applicant is a good or bad credit risk. It uses basic supervised machine learning techniques and is designed to help build foundational skills in model development, evaluation, and interpretation — especially as they relate to real-world applications in financial risk and AML.
 
----
 
 ## Dataset
 
@@ -17,7 +16,6 @@ The goal of this project is to build a classification model to predict whether a
 - The dataset includes 1,000 credit applicants and 20 features, such as credit history, loan purpose, age, employment status, housing type, etc.
 - The target variable (`credit_risk`) is binary: `1` for good risk, `2` for bad risk. This was converted to `1` (good) and `0` (bad) during preprocessing.
 
----
 
 ## Tools & Libraries
 
@@ -27,7 +25,6 @@ The goal of this project is to build a classification model to predict whether a
 - scikit-learn  
 - matplotlib (planned for later phases)  
 
----
 
 ## Project Stages
 
@@ -45,7 +42,6 @@ The goal of this project is to build a classification model to predict whether a
 5. Initial Results:** Logistic Regression achieved the best performance with ~76% accuracy and 0.864 recall  
 6. Next Steps:** Feature importance analysis, visualization, and further evaluation (e.g. precision, F1 score)
 
----
 
 ## Summary of Results
 
@@ -57,7 +53,6 @@ The goal of this project is to build a classification model to predict whether a
 
 The results confirm that simple classification models, when properly prepared and evaluated, can provide useful insights into creditworthiness.
 
----
 
 ## Future Improvements
 
@@ -66,18 +61,16 @@ The results confirm that simple classification models, when properly prepared an
 - Add support for additional algorithms (e.g. Random Forest or XGBoost)  
 - Improve class balance handling using SMOTE or reweighting  
 
----
 
 ## Repository Contents
 
 - `credit_risk_analysis.ipynb`: Main notebook with code and results  
 - `german.data`: Raw dataset  
 - `README.md`: Project overview  
-- `initial_results_summary.txt`: Draft text for report  
+- `initial_results_summary.rtf`: Draft text for report  
 - `final_report.pdf`: (To be added)  
 - `video_walkthrough.mp4`: (To be added)
 
----
 
 ## Author
 
