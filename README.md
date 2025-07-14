@@ -14,7 +14,7 @@ The goal of this project is to build a classification model to predict whether a
 - **Source:** UCI Machine Learning Repository  
 - **Link:** [German Credit Data on UCI](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
 - The dataset includes 1,000 credit applicants and 20 features, such as credit history, loan purpose, age, employment status, housing type, etc.
-- The target variable (`credit_risk`) is binary: `1` for good risk, `2` for bad risk. This was converted to `1` (good) and `0` (bad) during preprocessing.
+- The target variable (credit_risk) is binary: 1 for good risk, 2 for bad risk. This was converted to 1 (good) and 0 (bad) during preprocessing.
 
 
 ## Tools & Libraries
@@ -58,18 +58,18 @@ The results confirm that simple classification models, when properly prepared an
 
 - I want to add precision, F1 score, and ROC curves  
 - Visualize feature importances and model comparisons  
-- Add support for additional algorithms (e.g. Random Forest or XGBoost)  
-- Improve class balance handling using SMOTE or reweighting  
+- Add support for additional algorithms
+ 
   
-
 ## Repository Contents
 
-- `cind820_credit_risk.ipynb`: Main notebook with code and results  
-- `german.data`: Raw dataset  
-- `README.md`: Project overview  
-- `initial_results_summary.rtf`: Draft text for report  
-- `final_report.pdf`: (To be added at the end of capstone)  
-- `video_walkthrough.mp4`: (To be added)
+- cind820_credit_risk.ipynb: Main Colab notebook with data preparation, modeling, and evaluation results.
+- german.data: Raw dataset used in this project (from UCI Machine Learning Repository).
+- README.md: Overview of the project, instructions, dataset source, and links to relevant components.
+- initial_results_summary.rtf: Written summary of initial findings, to support the D2L submission.
+- CIND820_Initial_Results_StrahinjaNakic.pdf: Exported PDF version of the notebook for backup and grading.
+- video_walkthrough.mp4: 5-minute video explaining code and results.
+- final_report.pdf: Final report to be uploaded later in the capstone course.
 
 
 ## Author
