@@ -5,7 +5,7 @@ cind820_credit_risk_assignment
 
 This project was completed as part of the capstone course (CIND 820) in the Certificate in Data Analytics, Big Data & Predictive Analytics program at Toronto Metropolitan University.
 
-The goal of this project is to build a classification model to predict whether a credit applicant is a good or bad credit risk. It uses basic supervised machine learning techniques and is designed to help build foundational skills in model development, evaluation, and interpretation — especially as they relate to real-world applications in financial risk and AML.
+The goal of this project is to build a classification model to predict whether a credit applicant is a good or bad credit risk. It uses basic supervised machine learning techniques and is designed to help build foundational skills in model development, evaluation, and interpretation, especially as they relate to real-world applications in financial risk and AML.
 
 
 ## Dataset
@@ -39,7 +39,7 @@ The goal of this project is to build a classification model to predict whether a
    - Recall  
    - Confusion matrix  
    - 5-fold cross-validation  
-5. Initial Results:** Logistic Regression achieved the best performance with ~76% accuracy and 0.864 recall  
+5. Initial Results:** Logistic Regression achieved the best performance with 76% accuracy and 0.864 recall  
 6. Next Steps:** Feature importance analysis, visualization, and further evaluation (e.g. precision, F1 score)
 
 
