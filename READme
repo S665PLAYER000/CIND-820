@@ -64,12 +64,14 @@ The results confirm that simple classification models, when properly prepared an
 ## Repository Contents
 
 - cind820_credit_risk.ipynb: Main Colab notebook with data preparation, modeling, and evaluation results.
+- cind820_credit_risk_with_visuals.ipynb: Additional Colab notebook which includes added visualizations for correlation, model comparison, and feature importances.
 - german.data: Raw dataset used in this project (from UCI Machine Learning Repository).
 - README.md: Overview of the project, instructions, dataset source, and links to relevant components.
 - initial_results_summary.rtf: Written summary of initial findings, to support the D2L submission.
-- CIND820_Initial_Results_StrahinjaNakic.pdf: Exported PDF version of the notebook for backup and grading.
+- cind820_Initial_Results_StrahinjaNakic.pdf: Exported PDF version of the notebook for backup and grading.
+- cind820_final_report_StrahinjaNakic.pdf: Final capstone report summarizing all project stages, findings, and conclusions. 
 - video_walkthrough_StrahinjaNakic.mp4: 5-minute video explaining code and results.
-- final_report.pdf: Final report to be uploaded later in the capstone course.
+
 
 
 ## Author
